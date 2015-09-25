@@ -1,0 +1,353 @@
+<?xml version="1.0"?>
+<TComponentSet id="0" CurrentRevColumnWidth="100" NameColumnWidth="300" NextRevColumnWidth="100">
+  <LifeCycleDefinitionGUID>36FD2F71-F33E-4628-994A-0C82C0197C5F</LifeCycleDefinitionGUID>
+  <RevisionNamingSchemeGUID>CE4B36C7-F2D7-49B0-AA3A-E3B6D3276818</RevisionNamingSchemeGUID>
+  <VaultGUID>B7D15EC3-160A-466F-A46C-7801FE6295A7</VaultGUID>
+  <VaultName>Altium Content Vault</VaultName>
+  <RequiredParameters>
+    <TRequiredParameter id="1" ColumnWidth="100">
+      <HRID>Code_JEDEC</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="2" ColumnWidth="100">
+      <HRID>Comment</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="3" ColumnWidth="100">
+      <HRID>ComponentLink1Description</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="4" ColumnWidth="100">
+      <HRID>ComponentLink1URL</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="5" ColumnWidth="100">
+      <HRID>ComponentLink2Description</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="6" ColumnWidth="100">
+      <HRID>ComponentLink2URL</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="7" ColumnWidth="100">
+      <HRID>ComponentLink3Description</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="8" ColumnWidth="100">
+      <HRID>ComponentLink3URL</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="9" ColumnWidth="100">
+      <HRID>DatasheetVersion</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="10" ColumnWidth="100">
+      <HRID>Description</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="11" ColumnWidth="100">
+      <HRID>I/O</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="12" ColumnWidth="100">
+      <HRID>LED Blink/PWM</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="13" ColumnWidth="100">
+      <HRID>Manufacturer</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="14" ColumnWidth="100">
+      <HRID>Mounting Technology</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="15" ColumnWidth="100">
+      <HRID>PackageDescription</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="16" ColumnWidth="100">
+      <HRID>PackageReference</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="17" ColumnWidth="100">
+      <HRID>PackageVersion</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="18" ColumnWidth="100">
+      <HRID>Packing</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="19" ColumnWidth="100">
+      <HRID>PartNumber</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="20" ColumnWidth="100">
+      <HRID>RoHS</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="21" ColumnWidth="100">
+      <HRID>VCC Max (V)</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="22" ColumnWidth="100">
+      <HRID>VCC Min (V)</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+  </RequiredParameters>
+  <RequiredModels>
+    <TRequiredModel id="23" ColumnWidth="100">
+      <HRID>PCBLIB</HRID>
+      <Visible>true</Visible>
+      <ModelKind>PCBLIB</ModelKind>
+    </TRequiredModel>
+    <TRequiredModel id="24" ColumnWidth="100">
+      <HRID>PCBLIB 1</HRID>
+      <Visible>true</Visible>
+      <ModelKind>PCBLIB</ModelKind>
+    </TRequiredModel>
+    <TRequiredModel id="25" ColumnWidth="100">
+      <HRID>PCBLIB 2</HRID>
+      <Visible>true</Visible>
+      <ModelKind>PCBLIB</ModelKind>
+    </TRequiredModel>
+    <TRequiredModel id="26" ColumnWidth="100">
+      <HRID>SCHLIB</HRID>
+      <Visible>true</Visible>
+      <ModelKind>SCHLIB</ModelKind>
+    </TRequiredModel>
+  </RequiredModels>
+  <ModelLinks>
+    <TModelLink id="27">
+      <HRID>PCC-0094-00598-1</HRID>
+      <VaultGUID>B7D15EC3-160A-466F-A46C-7801FE6295A7</VaultGUID>
+      <ItemGUID>421B1797-7F91-475A-8AC7-0DFC3DD3DD33</ItemGUID>
+      <ModelKind>PCBLIB</ModelKind>
+      <RevisionGUID>29ACB241-7FA6-46CB-AF22-9F93FD86CC32</RevisionGUID>
+    </TModelLink>
+    <TModelLink id="28">
+      <HRID>PCC-0094-00599-1</HRID>
+      <VaultGUID>B7D15EC3-160A-466F-A46C-7801FE6295A7</VaultGUID>
+      <ItemGUID>BC7531E1-EAC7-4427-87FC-65B4AF085F3D</ItemGUID>
+      <ModelKind>PCBLIB</ModelKind>
+      <RevisionGUID>6D1C5145-0879-49A2-8F53-A6480A24405F</RevisionGUID>
+    </TModelLink>
+    <TModelLink id="29">
+      <HRID>PCC-0094-00600-1</HRID>
+      <VaultGUID>B7D15EC3-160A-466F-A46C-7801FE6295A7</VaultGUID>
+      <ItemGUID>57F34126-A6ED-430B-84C6-5A6E283BEAE5</ItemGUID>
+      <ModelKind>PCBLIB</ModelKind>
+      <RevisionGUID>953FDA5D-EFA5-48F2-AB2B-02B1BF6C2AAB</RevisionGUID>
+    </TModelLink>
+    <TModelLink id="30">
+      <HRID>SYM-0050-00578-1</HRID>
+      <VaultGUID>B7D15EC3-160A-466F-A46C-7801FE6295A7</VaultGUID>
+      <ItemGUID>1CDC4909-8165-4DB9-8C14-9F8EC1B8709A</ItemGUID>
+      <ModelKind>SCHLIB</ModelKind>
+      <RevisionGUID>9A33E814-F437-40A3-A7A1-AC99C337549B</RevisionGUID>
+    </TModelLink>
+  </ModelLinks>
+  <PartChoiceListLinks StateIndex="2">
+    <ComponentSet href="#0"/>
+    <ItemNamingScheme>PCL-{00000}</ItemNamingScheme>
+  </PartChoiceListLinks>
+  <TopGroup id="31" StateIndex="2" Collapsed="false">
+    <Parameters/>
+    <ModelChoices/>
+    <ComponentSet href="#0"/>
+    <ItemNamingScheme>CMP-{00000}</ItemNamingScheme>
+    <Groups>
+      <TGroup id="32" StateIndex="2" Collapsed="false">
+        <HRID>Unified Components</HRID>
+        <ParentGroup href="#31"/>
+        <Parameters/>
+        <ModelChoices/>
+        <ComponentSet href="#0"/>
+        <Groups>
+          <TGroup id="33" StateIndex="2" Collapsed="false">
+            <HRID>Components</HRID>
+            <ParentGroup href="#32"/>
+            <Parameters/>
+            <ModelChoices/>
+            <ComponentSet href="#0"/>
+            <Groups>
+              <TGroup id="34" StateIndex="2" Collapsed="false">
+                <HRID>ON Semiconductor</HRID>
+                <ParentGroup href="#33"/>
+                <Parameters/>
+                <ModelChoices/>
+                <ComponentSet href="#0"/>
+                <Groups>
+                  <TGroup id="35" StateIndex="2" Collapsed="false">
+                    <HRID>Signal Management</HRID>
+                    <ParentGroup href="#34"/>
+                    <Parameters/>
+                    <ModelChoices/>
+                    <ComponentSet href="#0"/>
+                    <Groups>
+                      <TGroup id="36" StateIndex="2" Collapsed="false">
+                        <HRID>Interfaces</HRID>
+                        <ParentGroup href="#35"/>
+                        <Parameters/>
+                        <ModelChoices/>
+                        <ComponentSet href="#0"/>
+                        <Groups>
+                          <TGroup id="37" StateIndex="2" Collapsed="false">
+                            <HRID>I-O Expanders</HRID>
+                            <GUID>BB3806E4-9639-46BB-8040-3445976D08CC</GUID>
+                            <ParentGroup href="#36"/>
+                            <Parameters/>
+                            <ModelChoices/>
+                            <ComponentSet href="#0"/>
+                            <Groups/>
+                            <ComponentDefinitions>
+                              <TComponentDefinition StateIndex="0">
+                                <HRID>CMP-1316-00042</HRID>
+                                <GUID>84113B8D-32C6-46DF-B8E9-C7F9ED89C367</GUID>
+                                <ParentGroup href="#37"/>
+                                <Parameters>
+                                  <TParameter>
+                                    <RequiredParameter href="#2"/>
+                                    <Value>CAT9532YI-T2</Value>
+                                  </TParameter>
+                                  <TParameter>
+                                    <RequiredParameter href="#10"/>
+                                    <Value>16-Bit Programmable LED Dimmer with I2C Interface, 2.3 to 5.5 V, -40 to 85 degC, 24-Pin TSSOP, Pb-Free, Tape and Reel</Value>
+                                  </TParameter>
+                                  <TParameter>
+                                    <RequiredParameter href="#3"/>
+                                    <Value>Manufacturer URL</Value>
+                                  </TParameter>
+                                  <TParameter>
+                                    <RequiredParameter href="#14"/>
+                                    <Value>Surface Mount</Value>
+                                  </TParameter>
+                                  <TParameter>
+                                    <RequiredParameter href="#7"/>
+                                    <Value>Package Specification</Value>
+                                  </TParameter>
+                                  <TParameter>
+                                    <RequiredParameter href="#18"/>
+                                    <Value>Tape and Reel</Value>
+                                  </TParameter>
+                                  <TParameter>
+                                    <RequiredParameter href="#8"/>
+                                    <Value>http://www.onsemi.com/pub_link/Collateral/948AR.PDF</Value>
+                                  </TParameter>
+                                  <TParameter>
+                                    <RequiredParameter href="#15"/>
+                                    <Value>24-Pin Small Outline Package, Body 7.8 x 4.4 mm, Pitch 0.65 mm</Value>
+                                  </TParameter>
+                                  <TParameter>
+                                    <RequiredParameter href="#11"/>
+                                    <Value>16</Value>
+                                  </TParameter>
+                                  <TParameter>
+                                    <RequiredParameter href="#22"/>
+                                    <Value>2.3</Value>
+                                  </TParameter>
+                                  <TParameter>
+                                    <RequiredParameter href="#17"/>
+                                    <Value>Rev. A, 03/2009</Value>
+                                  </TParameter>
+                                  <TParameter>
+                                    <RequiredParameter href="#19"/>
+                                    <Value>CAT9532YI-T2</Value>
+                                  </TParameter>
+                                  <TParameter>
+                                    <RequiredParameter href="#20"/>
+                                    <Value>TRUE</Value>
+                                  </TParameter>
+                                  <TParameter>
+                                    <RequiredParameter href="#1"/>
+                                    <Value>MO-153</Value>
+                                  </TParameter>
+                                  <TParameter>
+                                    <RequiredParameter href="#4"/>
+                                    <Value>http://www.onsemi.com/</Value>
+                                  </TParameter>
+                                  <TParameter>
+                                    <RequiredParameter href="#21"/>
+                                    <Value>5.5</Value>
+                                  </TParameter>
+                                  <TParameter>
+                                    <RequiredParameter href="#16"/>
+                                    <Value>TSSOP-24-948AR-01</Value>
+                                  </TParameter>
+                                  <TParameter>
+                                    <RequiredParameter href="#13"/>
+                                    <Value>On Semiconductor</Value>
+                                  </TParameter>
+                                  <TParameter>
+                                    <RequiredParameter href="#9"/>
+                                    <Value>Rev. 4</Value>
+                                  </TParameter>
+                                  <TParameter>
+                                    <RequiredParameter href="#6"/>
+                                    <Value>http://www.onsemi.com/pub_link/Collateral/CAT9532-D.PDF</Value>
+                                  </TParameter>
+                                  <TParameter>
+                                    <RequiredParameter href="#5"/>
+                                    <Value>Datasheet</Value>
+                                  </TParameter>
+                                  <TParameter>
+                                    <RequiredParameter href="#12"/>
+                                    <Value>Yes</Value>
+                                  </TParameter>
+                                </Parameters>
+                                <ModelChoices>
+                                  <TModelChoice>
+                                    <RequiredModel href="#23"/>
+                                    <ModelLink href="#28"/>
+                                  </TModelChoice>
+                                  <TModelChoice>
+                                    <RequiredModel href="#24"/>
+                                    <ModelLink href="#27"/>
+                                  </TModelChoice>
+                                  <TModelChoice>
+                                    <RequiredModel href="#26"/>
+                                    <ModelLink href="#30"/>
+                                  </TModelChoice>
+                                  <TModelChoice>
+                                    <RequiredModel href="#25"/>
+                                    <ModelLink href="#29"/>
+                                  </TModelChoice>
+                                </ModelChoices>
+                                <ItemHRID>CMP-1316-00042</ItemHRID>
+                                <RevisionGUID>EA700D9B-BA90-4E43-B457-FE6AB36D0162</RevisionGUID>
+                                <RevisionId>1</RevisionId>
+                              </TComponentDefinition>
+                            </ComponentDefinitions>
+                            <Path>Unified Components\Components\ON Semiconductor\Signal Management\Interfaces\I-O Expanders</Path>
+                            <IsDefaultGroup>true</IsDefaultGroup>
+                          </TGroup>
+                        </Groups>
+                        <ComponentDefinitions/>
+                        <Path>Unified Components\Components\ON Semiconductor\Signal Management\Interfaces</Path>
+                        <IsDefaultGroup>false</IsDefaultGroup>
+                      </TGroup>
+                    </Groups>
+                    <ComponentDefinitions/>
+                    <Path>Unified Components\Components\ON Semiconductor\Signal Management</Path>
+                    <IsDefaultGroup>false</IsDefaultGroup>
+                  </TGroup>
+                </Groups>
+                <ComponentDefinitions/>
+                <Path>Unified Components\Components\ON Semiconductor</Path>
+                <IsDefaultGroup>false</IsDefaultGroup>
+              </TGroup>
+            </Groups>
+            <ComponentDefinitions/>
+            <Path>Unified Components\Components</Path>
+            <IsDefaultGroup>false</IsDefaultGroup>
+          </TGroup>
+        </Groups>
+        <ComponentDefinitions/>
+        <Path>Unified Components</Path>
+        <IsDefaultGroup>false</IsDefaultGroup>
+      </TGroup>
+    </Groups>
+    <ComponentDefinitions/>
+    <IsDefaultGroup>false</IsDefaultGroup>
+  </TopGroup>
+  <ShowReleaseState>false</ShowReleaseState>
+</TComponentSet>
